@@ -5,7 +5,7 @@ import asyncio
 import random
 import time
 from pyvesync_v2 import VeSync
-manager = VeSync("Underwoodjack185@gmail.com", "cry658owl")
+manager = VeSync("email", "pass")
 manager.login()
 manager.update()
 my_switch = manager.outlets[0]
