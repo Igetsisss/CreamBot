@@ -9,7 +9,7 @@ manager = VeSync("Underwoodjack185@gmail.com", "cry658owl")
 manager.login()
 manager.update()
 my_switch = manager.outlets[0]
-TOKEN = 'MTAwMjc2MTQ4MzM5MTg4MTIzNg.G1UwRL.x_B3_iQFsVOv8HoIN-4_sLZQHUd7z71G0r2ZZ4'
+TOKEN = ''
 client = commands.Bot(command_prefix = '/')
 client.remove_command('help')
 
